@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406000121440",
+    "firebase_url": "https://snoot-77626.firebaseio.com",
+    "project_id": "snoot-77626",
+    "storage_bucket": "snoot-77626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406000121440:android:f493e1c7183c4737ebb505",
+        "android_client_info": {
+          "package_name": "com.dich.dich2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406000121440-qgo1h71qcn28urusu5qb1shco276eje6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY09wHwRCn4SEMSLsD2H3RFm95R4YUIOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406000121440-qgo1h71qcn28urusu5qb1shco276eje6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

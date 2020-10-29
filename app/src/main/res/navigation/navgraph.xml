@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navgraph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.dich.dich2.screens.game.GameFragment"
+        android:label="GameFragment" />
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.dich.dich2.screens.splash.SplashFragment"
+        android:label="SplashFragment" >
+        <action
+            android:id="@+id/action_splashFragment_to_gameFragment"
+            app:destination="@id/gameFragment" />
+    </fragment>
+</navigation>
